@@ -78,6 +78,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Google Generative AI team for the Gemini API
 - Contributors and maintainers
-
-# Gemini_paralell_tools
-# Gemini_2.0_paralell_tools
