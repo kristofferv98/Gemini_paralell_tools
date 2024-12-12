@@ -1,5 +1,6 @@
 # Universal Tool Schema Generation and Gemini Assistant Example
 
+This repo attempts at exploring function calls and paralell tool usage for the new gemini-2.0-flash-exp model as well as automate tool creation and schema convertion for other llm apis
 This repository demonstrates how to:
 
 1. Convert Python functions into schemas compatible with various AI APIs (e.g., OpenAI, Anthropic, and Gemini).
